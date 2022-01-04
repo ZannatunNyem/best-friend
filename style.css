@@ -1,0 +1,35 @@
+body{
+    font-family: 'Courgette', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.own{
+    color: rgb(123, 32, 228);
+}
+section{
+    display: flex;
+}
+.half{
+    width: 60%;
+    padding-left: 3%;
+}
+.half img{
+    width: 70%;
+    padding-top: 8%;
+    padding-left: 10%;
+}
+.bun{
+    text-decoration: none;
+    background-image: -webkit-linear-gradient(rgb(231, 117, 241),rgb(138, 18, 88));
+    border-radius: 7px;
+    padding: 10px 40px;
+    color: rgb(255, 236, 254);
+    font-weight: bolder;
+    
+}
+.top{
+    background-image: url(top.png);
+    background-repeat: no-repeat;
+}
